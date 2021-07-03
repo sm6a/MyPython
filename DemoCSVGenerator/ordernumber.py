@@ -12,7 +12,7 @@ ca = [1,2,3]
 csvbasedir = 'C:/temp'
 
 # csv header
-fieldnames = ['address', 'date', 'occupied']
+fieldnames = ['ordernumber', 'starttime', 'endtime']
 
 # csv data
 with open(csvbasedir+'/BITestData/occupation.csv', 'w', encoding='UTF8', newline='') as f:
