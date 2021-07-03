@@ -31,3 +31,6 @@ with open(csvbasedir+'/BITestData/occupation.csv', 'w', encoding='UTF8', newline
                 writer.writerow(row)
                 myhours += 1
                 writer.writerow()
+                # to do 
+                # generate order number 
+                # random start time and end time
