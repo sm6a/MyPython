@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "driven-seer-234806",
+  "private_key_id": "ed1b08406094e5a43b97c36dad6dd742ca98b4f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQ3NtUbNndbAsH\n1MPELdp/jsFmRlgdd46P2oMSjZlUm4VFf3b+D9h3cQomZwo/ho/6tHDuNpCq+dtt\nfaZ63GZ6L+kFMi78+ytuSIR3w4hlZnl/4VdKSzUdHbtzSlIkc5Jag3dhQ9Tn94wX\nR56lEtYwE6vgZSy6p9IeLC2wpeO1IaXm4bWSF1cD8PDD3AelV6TYyxEBKIIBlvP/\nBrW4q9yLdn3G951/b5CH1MSp5/SOCfmDJBK0QIAP3lunAZn4AqX9M6HeBoImv9Gc\nd75bGx5KbsrWeP0GWQn5jmkjXHRVmbFEmADAewaDyyQcESU3XloO5TDRMVoIePXk\ngezl5yLtAgMBAAECggEADm6K/4r+RS4+FzZZ/kApMPdb1jW7SMf2KMBRc71R2wvc\nT4MhT/38zV4DyfJZ6INOB2WjSFaACbcLijCB3yCZD819MAUkbt8VGcD22ZwAHKTn\ndXu22h+XEIdkKIZ6EAzl+o1LI6758xBYFKi30Hyxd5ojCMrnkRCKXy2Fd7IIE//F\nPPI/1+/OdtaSB1pZMB2VnjcmSBw3vW/RCYliQFIWbhDsEU8o33tmJDn4y7sY/gkS\ncm7mcpIhYrna1cSToJrOE5BRz1LaXBiQBX1SfSM3h74r981Zed+smd/xk/rS57+J\nPl4prkaCmmCxHRSxzPlr/s5LuLpbnVLbQoCVfF8FAQKBgQD5yxyJhOO4zjJpRCF9\nQYK8KIf1j4Wu8VB7WONM6cs9cts5q7pBE+aStov478D+/MqUjb9SWp0/gTUN54Zu\n2EN8BYtkOvVIJYvFVXHPx2phGGMB0941XipS7WMngJficToKbW+hcIEKb952i7lZ\nBBJto9guyuWtwqtBnti7Msw97QKBgQDWDWSZZbU96Loc+nPGQ5VrehqEeF46DR7U\nawBA++U1vrShwxC6a33Rxttz0p4gE5jd1APxSOxkjXq7auoV0yUmwKS1v++8NcEM\n/GB+GEdvJpipAoe2gq3gI4TR2SqgOm/2LdJaAHyPt5wvvJcLcgBdmdtd2/yEsd2r\nc6KIkXHZAQKBgQCzvAYInWoNq7ByNeey7NRY9wD9HAwg2NoEJu1GhmMLD/3V/U7D\nTMJ3hooo0LqZvuM1CNlFNJY4/4thOdptH4dPUd3+fL3I79smXljKHL7apmV3By+4\nTs09ZjoWTlz7PmV4402TaBQxolT8D4WKG3f3FBGVecDRymTXjqh76g0z8QKBgCG2\nhkuquzr+9qEtySJG7re4yYhntN+LxXlLSQTzJ4ypdqWrpWzXFT//A/1gBMukioUV\nqXFNPP4xUk1Gb4v0b3uFB+wgSM/p33f+H+x8QnP9LjogTeOu/Ve6AGdUvuPxkETD\nvseyH+w6zPyvxVJmKCyV2PkVdtYndXRViBneXoIBAoGBAPiBzKI7e2kXzFH/ziNQ\nowrysAi7Hxl9h+6nnka84VSqEbptm1ku0Wo+L0sEaDMrHLGVm+0HS5zTPSxXCAln\n8tW8c527mAjAJ4r8FuNXk4OfmGawkLNpw5NYjOWYWT8kI0gbR3lVRDF8aCDotJWy\nSWOoOorsPc7mlTqbnef1ikdX\n-----END PRIVATE KEY-----\n",
+  "client_email": "sotaro-matsuuura@driven-seer-234806.iam.gserviceaccount.com",
+  "client_id": "115806892924415146589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sotaro-matsuuura%40driven-seer-234806.iam.gserviceaccount.com"
+}
